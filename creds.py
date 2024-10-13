@@ -5,12 +5,12 @@ load_dotenv(find_dotenv())
 
 
 class cred:
-    BOT_NAME = os.getenv("BOT_NAME")
-    BOT_TOKEN = os.getenv("BOT_TOKEN")  # From botfather
+    BOT_NAME = os.getenv("UozEcpQ7aAGGEJwjDCMIw7WXp0")
+    BOT_TOKEN = os.getenv("1958750043:AAEjjcZP-UozEcpQ7aAGGEJwjDCMIw7WXp0")  # From botfather
     API_ID = os.getenv(
-        "API_ID"
+        "1087031"
     )  # "Get this value from my.telegram.org! Please do not steal"
     API_HASH = os.getenv(
-        "API_HASH"
+        "bb081cad2785a8b8cbc98cdd7be26cca"
     )  # "Get this value from my.telegram.org! Please do not steal"
-    DB_URL = os.getenv("DB_URL")  # From Firebase database
+    DB_URL = os.getenv("https://trans-ed69c-default-rtdb.firebaseio.com/")  # From Firebase database
